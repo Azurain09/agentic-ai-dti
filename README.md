@@ -2,6 +2,10 @@
 
 An intelligent agent prototype for a small Peruvian store that manages credit sales (fiados), payments, customer history, and basic collection decisions. The project was developed for the DTI Agentic AI course.
 
+## Workflow preview
+
+<img src="assets/agent-flow.svg" alt="Agentic AI credit and collections workflow" width="900" />
+
 ## What it demonstrates
 
 - Tool-using LLM agent built with LangChain.
@@ -11,18 +15,6 @@ An intelligent agent prototype for a small Peruvian store that manages credit sa
 - Business rules for credit categories and account status.
 - Financial summaries and data visualizations generated on demand.
 - Interactive notebook interface for a controlled demonstration.
-
-## Architecture
-
-```text
-User request
-    |
-LangChain agent + conversation memory
-    |
-Business tools: customers | credit sales | payments | reports | charts
-    |
-SQLite database + generated demo data
-```
 
 ## Tech stack
 

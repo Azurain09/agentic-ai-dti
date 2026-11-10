@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Credit and Collections Agent workflow</title>
+  <desc id="desc">A user interacts with a LangChain agent that uses guarded business tools and a SQLite demo database to answer requests and generate reports.</desc>
+  <rect width="1200" height="560" fill="#111827"/>
+  <text x="70" y="82" fill="#f9fafb" font-family="Arial, sans-serif" font-size="34" font-weight="700">Agentic AI DTI</text>
+  <text x="70" y="116" fill="#9ca3af" font-family="Arial, sans-serif" font-size="18">Credit and collections assistant workflow</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="70" y="210" width="205" height="130" rx="12" fill="#1e3a5f" stroke="#60a5fa" stroke-width="2"/>
+    <text x="96" y="258" fill="#bfdbfe" font-size="16" font-weight="700">INPUT</text>
+    <text x="96" y="297" fill="#f9fafb" font-size="21">User request</text>
+    <rect x="390" y="165" width="310" height="220" rx="12" fill="#143a36" stroke="#34d399" stroke-width="2"/>
+    <text x="420" y="215" fill="#6ee7b7" font-size="16" font-weight="700">AGENT LAYER</text>
+    <text x="420" y="255" fill="#f9fafb" font-size="24" font-weight="700">LangChain agent</text>
+    <text x="420" y="292" fill="#d1fae5" font-size="18">Conversation memory</text>
+    <text x="420" y="326" fill="#d1fae5" font-size="18">Validation + business rules</text>
+    <rect x="825" y="145" width="295" height="125" rx="12" fill="#3f2a5e" stroke="#c084fc" stroke-width="2"/>
+    <text x="851" y="192" fill="#e9d5ff" font-size="16" font-weight="700">CONTROLLED TOOLS</text>
+    <text x="851" y="229" fill="#f9fafb" font-size="19">Customers · Credit sales · Payments</text>
+    <rect x="825" y="320" width="295" height="125" rx="12" fill="#4a3020" stroke="#fbbf24" stroke-width="2"/>
+    <text x="851" y="367" fill="#fde68a" font-size="16" font-weight="700">DEMO DATA</text>
+    <text x="851" y="404" fill="#f9fafb" font-size="19">SQLite · Reports · Charts</text>
+    <path d="M290 275 H355" stroke="#60a5fa" stroke-width="4"/><path d="M355 275 l-14 -10 v20 z" fill="#60a5fa"/>
+    <path d="M715 250 H790" stroke="#c084fc" stroke-width="4"/><path d="M790 250 l-14 -10 v20 z" fill="#c084fc"/>
+    <path d="M715 320 H790" stroke="#fbbf24" stroke-width="4"/><path d="M790 320 l-14 -10 v20 z" fill="#fbbf24"/>
+  </g>
+  <text x="70" y="505" fill="#6b7280" font-family="Arial, sans-serif" font-size="16">Published version uses no API keys, personal records, or local databases.</text>
+</svg>
