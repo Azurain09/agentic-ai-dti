@@ -15,7 +15,8 @@
     <text x="420" y="326" fill="#d1fae5" font-size="18">Validation + business rules</text>
     <rect x="825" y="145" width="295" height="125" rx="12" fill="#3f2a5e" stroke="#c084fc" stroke-width="2"/>
     <text x="851" y="192" fill="#e9d5ff" font-size="16" font-weight="700">CONTROLLED TOOLS</text>
-    <text x="851" y="229" fill="#f9fafb" font-size="19">Customers · Credit sales · Payments</text>
+    <text x="851" y="222" fill="#f9fafb" font-size="18">Customers · Credit sales</text>
+    <text x="851" y="248" fill="#f9fafb" font-size="18">Payments · Reports</text>
     <rect x="825" y="320" width="295" height="125" rx="12" fill="#4a3020" stroke="#fbbf24" stroke-width="2"/>
     <text x="851" y="367" fill="#fde68a" font-size="16" font-weight="700">DEMO DATA</text>
     <text x="851" y="404" fill="#f9fafb" font-size="19">SQLite · Reports · Charts</text>

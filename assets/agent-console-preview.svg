@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Sanitized Agentic AI DTI console preview</title>
+  <desc id="desc">A synthetic console preview showing the credit and collections agent using a tool to summarize balances. No real customer data is shown.</desc>
+  <rect width="1200" height="650" fill="#0f172a"/>
+  <rect x="70" y="55" width="1060" height="540" rx="14" fill="#111827" stroke="#334155" stroke-width="2"/>
+  <rect x="70" y="55" width="1060" height="68" rx="14" fill="#1e293b"/>
+  <circle cx="112" cy="89" r="8" fill="#f87171"/><circle cx="140" cy="89" r="8" fill="#fbbf24"/><circle cx="168" cy="89" r="8" fill="#34d399"/>
+  <text x="205" y="96" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="20" font-weight="700">Agentic AI DTI | Credit and Collections Assistant</text>
+  <g font-family="Arial, sans-serif">
+    <text x="110" y="170" fill="#60a5fa" font-size="17" font-weight="700">USER</text>
+    <text x="110" y="204" fill="#f8fafc" font-size="23">Show the accounts with the highest pending balance.</text>
+    <line x1="110" y1="236" x2="1090" y2="236" stroke="#334155"/>
+    <text x="110" y="280" fill="#34d399" font-size="17" font-weight="700">AGENT</text>
+    <text x="110" y="315" fill="#cbd5e1" font-size="20">I will use the balance-summary tool and apply the credit-status rules.</text>
+    <rect x="110" y="347" width="420" height="64" rx="9" fill="#123047" stroke="#38bdf8"/>
+    <text x="136" y="386" fill="#7dd3fc" font-size="18" font-weight="700">Tool: listar_principales_deudores</text>
+    <text x="110" y="458" fill="#f8fafc" font-size="20" font-weight="700">Synthetic demo result</text>
+    <rect x="110" y="480" width="280" height="60" rx="8" fill="#2b233f"/>
+    <text x="132" y="517" fill="#ddd6fe" font-size="18">Critical accounts: 2</text>
+    <rect x="415" y="480" width="280" height="60" rx="8" fill="#3d2b21"/>
+    <text x="437" y="517" fill="#fde68a" font-size="18">Pending balance: S/ 425</text>
+    <rect x="720" y="480" width="370" height="60" rx="8" fill="#16352d"/>
+    <text x="742" y="517" fill="#bbf7d0" font-size="18">Suggested action: follow up</text>
+  </g>
+  <text x="70" y="625" fill="#94a3b8" font-family="Arial, sans-serif" font-size="16">Sanitized portfolio preview. Names, IDs, phone numbers, and API keys are not displayed.</text>
+</svg>

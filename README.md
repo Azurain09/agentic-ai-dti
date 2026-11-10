@@ -6,6 +6,10 @@ An intelligent agent prototype for a small Peruvian store that manages credit sa
 
 <img src="assets/agent-flow.svg" alt="Agentic AI credit and collections workflow" width="900" />
 
+<img src="assets/agent-console-preview.svg" alt="Sanitized Agentic AI DTI console preview" width="900" />
+
+The console preview reflects the notebook's tool-driven workflow with synthetic data only.
+
 ## What it demonstrates
 
 - Tool-using LLM agent built with LangChain.
